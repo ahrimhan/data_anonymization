@@ -158,7 +158,7 @@ Cheap	|0.316817
 
 #### 2.3 Generalize the range of values: "Familysize" = "SibSp" + "Parch"
 
-![familySize_dist](image/familySize_dist.png)
+![familySize_dist](image/familysize_dist.png)
 
 FamilySize_bin|	Survived rate
 ---|---
