@@ -87,7 +87,7 @@ The "Age" columns have been generalized according to the various total number of
 anonymization	| k-anonymity |	data_loss %
 ---|---|---
 Age_bin20	|1	|5.00
-Age_bin15|	1|	6.67k
+Age_bin15|	1|	6.67
 Age_bin10	|2|	10.00
 Age_bin5|	11	|19.99
 
